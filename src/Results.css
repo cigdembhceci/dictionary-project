@@ -1,0 +1,17 @@
+.Results {
+  text-align: center;
+  margin: 0 auto;
+}
+.Results h2 {
+  text-transform: capitalize;
+  margin: 10px 10px;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 40px;
+}
+h3 {
+  color: brown;
+  text-transform: capitalize;
+  margin-top: 25px;
+  text-decoration: underline;
+}
