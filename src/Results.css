@@ -15,3 +15,7 @@ h3 {
   margin-top: 25px;
   text-decoration: underline;
 }
+.Synonyms ul {
+  text-align: center;
+  list-style-position: inside;
+}
