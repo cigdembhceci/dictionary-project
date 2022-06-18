@@ -13,7 +13,12 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
-      <footer className="App-footer">Coded by Cigdem B</footer>
+      <footer className="App-footer">
+        <a href="https://github.com/cigdembhceci/dictionary-project">
+          Open source
+        </a>{" "}
+        coded by Cigdem B
+      </footer>
     </div>
   );
 }
